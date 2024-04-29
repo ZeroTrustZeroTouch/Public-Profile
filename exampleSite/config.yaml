@@ -137,12 +137,6 @@ params:
       url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3WO5VywR6TgVWbyWjR5G-q7vaUYid7iSdnmLq2GyU393bK53BIBhiT_XL-XIS5lWsmRX1KLFAN"
       download: true
       newPage: true
-    button:
-      enable: true
-      name: "My Partner's Storefont"
-      url: "https://TheOpalDoor.com"
-      download: false
-      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -193,9 +187,8 @@ params:
         content: |
           I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
 
-
       - job: "Project Analyst"
-        company: "F12.Net"
+        company: "F12 [dot] Net"
         companyUrl: "https://F12.net"
         date: "Jan 2019 - Dec 2021"
         info:
@@ -207,7 +200,7 @@ params:
           - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
 
       - job: "Senior Project Technician"
-        company: "Level4 Technologies(Acquired by F12.net)"
+        company: "Level4 Technologies(Acquired by F12 [dot] net)"
         companyUrl: "https://F12.net"
         date: "August 2015 - Dec 2018"
         info:
@@ -249,8 +242,8 @@ params:
     index: false
     items:
       - title: "Diploma of Technical Studies"
-        school:
-          name: "BCIT"
+        school: BCIT
+          name: "Computer Information Systems Technican - Internet Services Technican Option"
           url: "https://BCIT.ca"
         date: "2005 - 2007"
         #GPA: "3.8 out of 5.0"
@@ -336,7 +329,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: If you have any questions feel free to reach out via email, and I will endeaver to get back to you as quickly as I'm able to,
     btnName: Mail me
     btnLink: mailto:contact@zerotrustzerotouch.com
     # formspree:
