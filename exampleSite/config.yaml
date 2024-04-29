@@ -188,27 +188,18 @@ params:
           I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
 
       - job: "Project Analyst"
-        company: "F12 [dot] Net"
+        company: "F12"
         companyUrl: "https://F12.net"
         date: "Jan 2019 - Dec 2021"
-        info:
-          enable: false
-          content: I worked Delivering Projects and providing Escalation services.
         content: |
           Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
 
           - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
 
       - job: "Senior Project Technician"
-        company: "Level4 Technologies(Acquired by F12 [dot] net)"
+        company: "Level4 Technologies(Acquired by F12)"
         companyUrl: "https://F12.net"
         date: "August 2015 - Dec 2018"
-        info:
-          enable: false
-          content: Officially moved from Service Department to Projects in May 2018, however primary duties converged long before that
-        featuredLink:
-          enable: false
-          url: "https://F12.net"
         content: |
           Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.
 
@@ -248,7 +239,7 @@ params:
         date: "2005 - 2007"
         #GPA: "3.8 out of 5.0"
         content: |-
-          Computer Information Systems Technican  Internet Services Technican Option
+          Computer Information Systems Technican  Internet Services Technican Option.
           Practical Enterprise Administration focused on Touching all aspects of an Enterprise IT lifecycle
             - First year focused on CCNA, MCSA, Comptia A+, preperation, as well as an introduction to programing 
             - Second year focused on Enterprise systems, Exchange, RHEL, Solaris, Advanced Firewalls, and building practice environments from scratch
