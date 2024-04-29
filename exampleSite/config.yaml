@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Glenn Phillips."
-    subtitle: "I design and deploy IT infrastructure solutions"
+    subtitle: "I Design and Deploy IT Infrastructure Solutions"
     content: "A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation."
     image: /images/hero.svg
     bottomImage:
@@ -133,9 +133,15 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Book and Appointment"
+      name: "Book an Appointment"
       url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3WO5VywR6TgVWbyWjR5G-q7vaUYid7iSdnmLq2GyU393bK53BIBhiT_XL-XIS5lWsmRX1KLFAN"
       download: true
+      newPage: true
+    button:
+      enable: true
+      name: "My Partner's Storefont"
+      url: "https://TheOpalDoor.com"
+      download: false
       newPage: true
     socialLinks:
       fontAwesomeIcons:
@@ -162,13 +168,13 @@ params:
       items:
         - "LXC, Docker, and Kubernetes"
         - "Ipsec, SSL, and Wireguard VPNs"
-        - "ITGlue, Hudu and ITFlow"
-        - "Wazuh and Crowdsec"
-        - "Grafa, Loki and Prometheus"
-        - "M365, Entra, Azure"
-        - "GCP and Google Workspace"
-        - "Fortinet Firewalls, Wireless, SIEM and Analytics,"
-        - "Ubuntu Server, Alpine, Void, Gentoo Linux"
+        - "ITGlue, Hudu, and ITFlow"
+        - "M365, Entra, and Azure"
+        - "GCP, and Google Workspace"
+        - "Fortinet Firewalls, Wireless, SIEM, and Analytics,"
+        - "Wazuh, and Crowdsec"
+        - "Grafa, Loki, and Prometheus"
+        - "Ubuntu Server, Alpine, Void, and Gentoo Linux"
         - "Connectwise and ManageEngine ticketing systems"
         - "Veeam Backup and Recovery"
         - "Nutanix AHV, Microsoft Hyper-v, Proxmox, Vmware VSphere"
@@ -183,15 +189,17 @@ params:
       - job: "Owner and Principal  Consultant"
         company: "Zero Trust Zero Touch ITMS"
         companyUrl: "https://ZeroTrustZeroTouch.com"
-        date: "Jan 2022 - present"
-        content: "I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt"
+        date: "Jan 2022 - Present"
+        content: |
+          I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
+
 
       - job: "Project Analyst"
         company: "F12.Net"
         companyUrl: "https://F12.net"
         date: "Jan 2019 - Dec 2021"
         info:
-          enable: true
+          enable: false
           content: I worked Delivering Projects and providing Escalation services.
         content: |
           Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
@@ -203,7 +211,7 @@ params:
         companyUrl: "https://F12.net"
         date: "August 2015 - Dec 2018"
         info:
-          enable: true
+          enable: false
           content: Officially moved from Service Department to Projects in May 2018, however primary duties converged long before that
         featuredLink:
           enable: false
