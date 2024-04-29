@@ -239,7 +239,6 @@ params:
         date: "2005 - 2007"
         #GPA: "3.8 out of 5.0"
         content: |-
-          Computer Information Systems Technican  Internet Services Technican Option.
           Practical Enterprise Administration focused on Touching all aspects of an Enterprise IT lifecycle
             - First year focused on CCNA, MCSA, Comptia A+, preperation, as well as an introduction to programing 
             - Second year focused on Enterprise systems, Exchange, RHEL, Solaris, Advanced Firewalls, and building practice environments from scratch
@@ -322,7 +321,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: If you have any questions feel free to reach out via email, and I will endeaver to get back to you as quickly as I'm able to,
-    btnName: Mail me
+    btnName: Contact me
     btnLink: mailto:contact@zerotrustzerotouch.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
