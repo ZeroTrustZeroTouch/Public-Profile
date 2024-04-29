@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://ZeroTrustZeroTouch.com"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "ZeroTrust ZeroTouch ITMS"
 theme: hugo-profile
 
 outputs:
@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Zero Trust Zero touch"
+  description: Zero Trust Zero Touch Professional Landing Page
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+     defaultTheme: "dark" # light
 
   font:
     fontSize: 1rem # default: 1rem
@@ -124,9 +124,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Glenn Phillips."
+    subtitle: "I design and deploy IT infrastructure solutions"
+    content: "A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -145,7 +145,7 @@ params:
           url: https://example.com
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "https://www.linkedin.com/in/glenn-phillips-40049aba/"
 
   # About
   about:
@@ -153,84 +153,94 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am an IT Consulting, and MSP Vetern with over 15 years of Professional services Experiance, ranging from small single seat clients, to 1000+ seat multi-national companies, non-profits, and financial institions, education, and everything inbetween.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I live by the Motto "Make future me less unhappy" Which professionally means, ensuring the solutions I impliment today, wont end up becoming tomorrow's technical debt.  It is also why I am so dedicated to creating functiona living documentation, typicaly utilizing a dedicated IT documentation tool, such as ITGlue, Hudu, or more recently ITFlow. This leads me to building templates and playbooks that are easy to follow, and take into account the varied skill levels of those utilizing them, to facilate up-skilling, and de-escalation of common tasks and incidents.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "LXC, Docker, and Kubernetes"
+        - "Ipsec, SSL, and Wireguard VPNs"
+        - "ITGlue, Hudu and ITFlow"
+        - "Wazuh and Crowdsec"
+        - "Grafa, Loki and Prometheus"
+        - "M365, Entra, Azure"
+        - "GCP and Google Workspace"
+        - "Fortinet Firewalls, Wireless, SIEM and Analytics,"
+        - "Ubuntu Server, Alpine, Void, Gentoo Linux"
+        - "Connectwise and ManageEngine ticketing systems"
+        - "Veeam Backup and Recovery"
+        - "Nutanix AHV, Microsoft Hyper-v, Proxmox, Vmware VSphere"
+        - Cisco, Ubiquiti, Fortinet, Network solutions"
+        - "MFA, IAM, SSO"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
+      - job: "Owner and Principal  Consultant"
+        company: "Zero Trust Zero Touch ITMS"
+        companyUrl: "https://ZeroTrustZeroTouch.com"
         date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt"
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+      - job: "Project Analyst"
+        company: "F12.Net"
+        companyUrl: "https://F12.net"
+        date: "Jan 2019 - Dec 2021"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked Delivering Projects and providing Escalation services.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Senior Project Technician"
+        company: "Level4 Technologies(Acquired by F12.net)"
+        companyUrl: "https://F12.net"
+        date: "August 2015 - Dec 2018"
         info:
+          enable: true
+          content: Officially moved from Service Department to Projects in May 2018, however primary duties converged long before that
+        featuredLink:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          url: "https://F12.net"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Enhanced efficiency of PM team by developing SoPs tailored to tasks and risk levels, resulting in faster project estimation and resource planning.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+          - Crafted Technical Guides for technician training, driving skill enhancement and enabling efficient project delegation for improved team productivity.
+
+          - Mentored and trained junior support team members in Windows Server management, resulting in a 30% increase in their ability to handle complex client network issues independently.
+
+          - Developed task and skill level appropriate documentation, leading to 25% increase in operational efficiency and smoother knowledge transfer within the team.
+
+      - job: "Enterprise Systems Administrator"
+        company: "Coastway Systems Technologies"
+        companyUrl: "https://coastway.ca"
+        date: "May 2017 - July 2015"
         featuredLink:
-          enable: true
-          url: "https://example.com"
+          enable: false
+          url: "https://coastway.ca"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Enterprise Systems Administrator for Relationship Driven Consulting transitioning to Managed services. Primary Duties include Solutions Architecting, Account Relations, Pre and Post Sales Technical support, and Developing Additional services to meet our clients changing and growing needs
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Established new client services for off-site replication, improving disaster recovery capabilities and client satisfaction
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - Provided regular reports on customer status, enabling proactive decision-making and improved client support
+
+
+      - job: "Independent Consultant"
+        company: "Freelance"
+        companyUrl: "https://ZeroTrustZeroTouch.com"
+        date: "June 2008 - Mar 2017"
+        content: |
+         Recruiter driven consulting focused primarily on Non-profits, Family and home based business.
+         Primary duties included Strategic and Capacity planning to ensure IT infrastructure was scalable to their forecasts. Provide inclusive IT and operational documentation, including Cyber Security response playbooks. Discuss Growth targets and employee training plans to better utilize availability tools and technologies and avoid common attack targets."
 
   # Education
   education:
@@ -238,46 +248,21 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Diploma of Technical Studies"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "BCIT"
+          url: "https://BCIT.ca"
+        date: "2005 - 2007"
+        #GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          Practical Enterprise Administration focused on Touching all aspects of an Enterprise IT lifecycle
+            - First year focused on CCNA, MCSA, Comptia A+, preperation, as well as an introduction to programing 
+            - Second year focused on Enterprise systems, Exchange, RHEL, Solaris, Advanced Firewalls, and building practice environments from scratch
+      
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -299,7 +284,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
