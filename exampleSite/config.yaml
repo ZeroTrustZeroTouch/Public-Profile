@@ -124,7 +124,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Glenn Phillips."
+    title: "Glenn Phillips"
     subtitle: "I Design and Deploy IT Infrastructure Solutions"
     content: "A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation."
     image: /images/hero.svg
@@ -242,12 +242,13 @@ params:
     index: false
     items:
       - title: "Diploma of Technical Studies"
-        school: BCIT
-          name: "Computer Information Systems Technican - Internet Services Technican Option"
+        school:
+          name: "BCIT"
           url: "https://BCIT.ca"
         date: "2005 - 2007"
         #GPA: "3.8 out of 5.0"
         content: |-
+          Computer Information Systems Technican  Internet Services Technican Option
           Practical Enterprise Administration focused on Touching all aspects of an Enterprise IT lifecycle
             - First year focused on CCNA, MCSA, Comptia A+, preperation, as well as an introduction to programing 
             - Second year focused on Enterprise systems, Exchange, RHEL, Solaris, Advanced Firewalls, and building practice environments from scratch
