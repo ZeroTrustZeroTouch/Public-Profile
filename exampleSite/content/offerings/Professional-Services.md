@@ -1,5 +1,5 @@
 ---
-title: "Technical Services Offered"
+title: "Professional Services Offered"
 date: 2024-04-29T22:41:10+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
@@ -17,7 +17,7 @@ description: "A Brief Summary of Professional Services offered By Zero Trust Zer
 toc: 
 ---
 
-## At Zero Trust Zero Touch we offer four broad catagories of technical services:
+## At Zero Trust Zero Touch we offer four broad catagories of Professional services:
 - Implementations
 - Migrations
 - Modernization
