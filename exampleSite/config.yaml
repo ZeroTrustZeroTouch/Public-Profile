@@ -27,7 +27,7 @@ Menus:
     - identifier: Offerings
       name: Offerings
       title: Offerings
-      url: /offerings
+      url: /Offerings
       weight: 1
     - identifier: blog
       name: Blog
