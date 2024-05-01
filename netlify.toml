@@ -32,6 +32,3 @@ HUGO_VERSION = "0.92.0"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[plugins]]
-package = "netlify-plugin-is-website-vulnerable"
-package = "netlify-plugin-checklinks"
