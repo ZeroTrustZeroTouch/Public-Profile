@@ -168,7 +168,7 @@ params:
         - "LXC, Docker, and Kubernetes"
         - "Ipsec, SSL, and Wireguard VPNs"
         - "ITGlue, Hudu, and ITFlow"
-        - "M365, Entra, and Azure"
+        - "AD, M365, Entra, and Azure"
         - "GCP, and Google Workspace"
         - "Fortinet Firewalls, Wireless, SIEM, and Analytics,"
         - "Wazuh, and Crowdsec"
@@ -199,7 +199,7 @@ params:
         content: |
           Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
 
-          - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
+         - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
 
       - job: "Senior Project Technician"
         company: "Level4 Technologies - Acquired by F12"
@@ -240,7 +240,7 @@ params:
       - title: "Diploma of Technical Studies"
         school:
           name: "BCIT"
-          url: "https://BCIT.ca"
+          url: "https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/#overview"
         date: "2005 - 2007"
         #GPA: "3.8 out of 5.0"
         content: |-
@@ -251,25 +251,21 @@ params:
 
   # Achievements
   achievements:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "Linux Journey"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: Sabayon Linux
+        content: Independant Contributor, Beta Tester, and user support
+        url: "https://en.wikipedia.org/wiki/Sabayon_Linux"
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: Funtoo Linux
+        content: Independent Contributor, User Support
+        url: "https://www.funtoo.org/"
         image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+      - title: Liguros Linux
+        content: Independent Contributor, Beta Tester
+        url: "https://liguros.gitlab.io/"
         image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
 
   # projects
   projects:
@@ -337,12 +333,12 @@ params:
   footer:
     recentPosts:
       path: "offerings"
-      count: 3
+      count: 4
       title: My Offerings
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      #github: https://github.com
       linkedin: https://www.linkedin.com/in/glenn-phillips-40049aba/
       
 
