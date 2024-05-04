@@ -133,7 +133,6 @@ params:
     subtitle: "I Design and Deploy, and Manage IT Infrastructure and Solutions"
     content: | -
       A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation.
-
     image: /images/hero.svg
     bottomImage:
       enable: true
