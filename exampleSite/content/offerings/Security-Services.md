@@ -28,7 +28,7 @@ toc:
 
 ## Baseline Security
 
-Baseline Security is a collection of all the low hanging fruit in the IT world that are often easy to miss or overlook, but form the bedrock of all IT Security and policies. These include things like creating Position and Access Lists, defining who needs access to what internal services, simple network segregation, creating Systems and network maps, separating privileged accounts.  These tasks may seem trivial, or not related to security, but help you understand what you have to protect, and form the bedrock of more advanced policies and certifications such as SOC2 and ISO 27001. The fundamental part of this process is learn and document what risks your organization has, how severe and impactful they are, and come up with even a basic risk management and acceptance profile.
+Baseline Security is a collection of all the low hanging fruit in the IT world that are often easy to miss or overlook, but form the bedrock of all IT Security and policies. These include things like creating Position and Access Lists, defining who needs access to what internal services, simple network segregation, creating Systems and network maps, separating privileged accounts.  These tasks may seem trivial, or not related to security, but help you understand what you have to protect, and form the bedrock of more advanced policies and certifications such as SOC2 and ISO 27001. The fundamental part of this process is learn and document what risks your organization has, how severe and impactful they are, and come up with risk management and acceptance profiles.
 - Asset Inventory, Hardware, Software, and Services
 - Licensing Reviews
 - Creation of Access Policies

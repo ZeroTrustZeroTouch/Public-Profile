@@ -44,7 +44,7 @@ Migrations entail moving any type of service or offering from one state to anoth
 ## Modernization
 
 This service is a little more nuanced than the first two, in that there will be more stakeholder engagement to ensure all parties are able to come to an agreement on the solutions required.  Typically Modernizations involve identifying pain-points, bottlenecks and frequent issues, the end goal being removing as many blockers and obstacles to ensure and easy and seamless experience for your business needs.  
-- One of the most common Modernization practices is working to enable SSO with more of your business applications to reduce the number of discrete passwords staff need to keep track of, enabling easier auditing and change management.
+- One of the most common Modernization practices is working to enable SSO, and identity and access management, with more of your business applications to reduce the number of discrete passwords staff need to keep track of, enabling easier auditing and change management.
 - Another common Modernization is reviewing your Processes and Policies, ensuring that they're up to date with your present environment, as there is always some drift as Services and Operating Systems update over time.
 - Enabling tighter integration with your core services
 The price for this service is highly dependant on your specific environments and needs.
