@@ -131,7 +131,7 @@ params:
     intro: "Hi, my name is"
     title: "Glenn Phillips"
     subtitle: "I Design and Deploy, and Manage IT Infrastructure and Solutions"
-    content: | -
+    content: |-
       A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation.
     image: /images/hero.svg
     bottomImage:
