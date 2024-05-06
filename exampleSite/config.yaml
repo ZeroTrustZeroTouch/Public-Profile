@@ -1,6 +1,6 @@
 baseURL: "https://ZeroTrustZeroTouch.com"
 languageCode: "en-us"
-title: "Zero Trust Zero Touch ITMS"
+title: "Zero Trust Zero Touch"
 theme: hugo-profile
 
 outputs:
@@ -58,7 +58,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Zero Trust Zero touch"
+  title: "Zero Trust Zero Touch"
   description: Zero Trust Zero Touch Professional Landing Page
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon-white.png"
