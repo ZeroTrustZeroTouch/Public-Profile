@@ -29,11 +29,11 @@ Menus:
       title: Offerings
       url: /Offerings
       weight: 1
-    #- identifier: blog
-    #  name: Blog
-    #  title: Blog posts
-    #  url: /blogs
-    #  weight: 2
+    - identifier: My Story
+      name: My Story
+      title: My Story
+      url: /my-story
+      weight: 2
     #- identifier: gallery
     #  name: Gallery
     #  title: Blog posts
