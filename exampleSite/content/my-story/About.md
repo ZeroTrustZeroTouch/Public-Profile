@@ -20,23 +20,21 @@ I am a Human first and foremost, what this means for me, is being able to balanc
 - A Partner
 - A Care Giver
 - A Cook
+- A Forager and Wildcrafter
+- A Fermenter of various food stuffs
 - A Parent of adult children and Pets
-- A Child
 - A Teacher, Trainer, and Coach of adults and children
 - An OpenSource Contributor
-- A Doer of odd jobs
 - A Business Owner
 - A Music and B Grade Movie lover
 - An Artist and Wood Carver
 - A Technician and Technologist
-- A Forager and Wildcrafter
-- A Fermenter of various food stuffs
 - A Person with non-visible Disabilities
 - A Friend and Ally
 
 ## Caregiving and Disability
 
-In addition to being an Indigenous professional I am also a fulltime caregiver for my partner, as we both have various disabilities. Being a caregiver is one of the reasons why I have been pursuing contracting and fractional services, as they grant me the flexibility that is not typically afforded to FTE staffs.  For us the disabilities we deal with have lead us to move from the city, and move out the interior's country side, where we are able to remove ourselves from the myriad of stimuli that aggregate our conditions. That said one of the major stimuli we are required to avoid and minimize is chemical particulars, perticularly present in scented products, as these cause a very strong and life threatening reaction.  the result of 
+In addition to being an Indigenous professional I am also a fulltime caregiver for my partner, as we both have various disabilities. Being a caregiver is one of the reasons why I have been pursuing contracting and fractional services, as they grant me the flexibility that is not typically afforded to FTE staffs.  For us the disabilities we deal with have lead us to leave the city, and move out the interior's country side, where we are able to remove ourselves from the myriad of stimuli that aggregate our conditions. That said one of the major stimuli we are required to avoid and minimize is chemical particulates, perticularly present in scented products, as these cause a very strong and life threatening reaction.  In addition to this we both suffer from connective tissue disorders which also require modifications to our living arrangements.
 
 ## Indigenous History
 
