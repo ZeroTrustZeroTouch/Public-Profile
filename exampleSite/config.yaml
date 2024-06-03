@@ -132,7 +132,7 @@ params:
     title: "Glenn Phillips"
     subtitle: "I Design, Deploy, and Manage IT Infrastructure and Solutions"
     content: |-
-      A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation. I prefer self-hosted solutions as they offer greater control, however I recognize the need for 'As a Service' Services due to the lower operational overhead, and as such I often design hybrid infrastructure to try and maximize the flexibility, while retaining as much externalized effort as reasonably possible.
+      A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation. I prefer self-hosted solutions as they offer greater control, however I recognize the need for 'As a Service' Services due to the lower operational overhead, and as such I often design hybrid infrastructure to try and maximize flexibility, while retaining as much externalized effort as reasonably possible.
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -148,7 +148,7 @@ params:
         #- icon: fab fa-github
         #  url: https://example.com
         - icon: fa-brands fa-linkedin
-          url: https://www.linkedin.com/in/glenn-phillips-40049aba/
+          url: https://www.linkedin.com/in/glenn-phillips-zt2/
       #customIcons:
       #  - icon: /fav.png
       #    url: ""
@@ -161,7 +161,7 @@ params:
     content: |-
       I am an IT Consulting, and MSP Veteran with over 15 years of Professional services Experience, ranging from small single seat clients, to 1000+ seat multi-national companies, non-profits, and financial intuitions, education, and everything in between.
 
-      I live by the Motto "Make future me less unhappy" Which professionally means, ensuring the solutions I implement today, wont end up becoming tomorrow's technical debt.  It is also why I am so dedicated to creating functional living documentation, typically utilizing a dedicated IT documentation tool, such as ITGlue, Hudu, or more recently ITFlow. This leads me to building templates and playbooks that are easy to follow, and take into account the varied skill levels of those utilizing them, to facilitate up-skilling, and de-escalation of common tasks and incidents.
+      I live by the Motto "Make future me less unhappy" Which professionally means, ensuring the solutions I implement today, wont end up becoming tomorrow's technical debt.  It is also why I am so dedicated to creating functional living documentation, utilizing a dedicated IT documentation tool, such as ITGlue, Hudu, or more recently ITFlow. This leads me to building templates and playbooks that are easy to follow, and take into account the varied skill levels of those utilizing them, to facilitate up-skilling, and de-escalation of common tasks and incidents.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -344,7 +344,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       #github: https://github.com
-      linkedin: https://www.linkedin.com/in/glenn-phillips-40049aba/
+      linkedin: https://www.linkedin.com/in/glenn-phillips-zt2/
       
 
   # List pages like blogs and posts
