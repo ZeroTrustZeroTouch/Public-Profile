@@ -23,14 +23,9 @@ toc:
  - Dedicated Fractional representation
  - Co-Management of Services
  - Capacity Planning and Forecasting
- - Consulting and Fractional Services
 
 <hr>
 
 ## Why Partnerships?
 
-Zero Trust Zero Touch was founded on the ideals of "Make Future-Me Less Unhappy", and "Human-Centric".  The Make Future Me Less Unhappy is simply an easy way of saying I like to do extra work upfront to mitigate Barriers and Blockers that actively make me Unhappy in the long run, meaning there is more room good things in life. The Human-Centric part comes as a byproduct of that thought process, as its not very enjoyable to treated like a Cog in a Machine, so I try and do better and treat every person and opportunity as Human first, even if it means missing out on the opportunities.
-
-## Who can become a Partner?
-
-Requirements to be a Partner are relatively low, a sustained relationship - from a commitment to a monthly or quarterly review or regularly engaging in Professional Services. This leaves the option of partnerships up to any size of organization based on their needs.
+Zero Trust Zero Touch was founded on the ideals of "Make Future-Me Less Unhappy", and "Human-Centric".  The Make Future Me Less Unhappy is simply an easy way of saying I like to do extra work upfront to mitigate Barriers and Blockers that actively make me Unhappy in the long run, meaning there is more room good things in life. The Human-Centric part comes as a byproduct of that thought process, as its not very enjoyable to treated like a Cog in a Machine, so I try and do better and treat every person and opportunity as Human first, even if it means missing out on some of the more corporate opportunities.
