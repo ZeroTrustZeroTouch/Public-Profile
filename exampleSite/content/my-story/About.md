@@ -16,7 +16,7 @@ toc:
 
 ## Who I am
 
-I am a Human first and foremost, what this means for me, is being able to balance the things that matter to me, my partner, family, friends, and personal growth and health, and the things that matter professionally.  This has led me back to Consulting from Managed services, and allowed me to take the time to be able to recenter and pursue what makes future me less unhappy. 
+I am a Human first and foremost, what this means for me is being able to balance the things that matter to me, my partner, family, friends, and personal growth and health, and the things that matter professionally.  This has led me back to Consulting from Managed Services, and allowed me to take the time to be able to recenter and pursue what makes future me less unhappy. 
 
 I am also:
  - A Caregiver
