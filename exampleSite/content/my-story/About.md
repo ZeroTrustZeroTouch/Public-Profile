@@ -16,20 +16,20 @@ toc:
 
 ## Who I am
 
-I am a Human first and foremost, what this means for me, is being able to balance the things that matter to me, my partner, family, friends, and personal growth and health, and the things that matter professionally.  This has lead me back to Consulting from Managed services, and allowed me to take the time to be able to recenter and pursue what makes future me less unhappy - removing barrier, obstacles, blockers, and spending quality time with my partner. I addition to being a Human, in no particular order, I have been, or am also:
-- A Partner
-- A Care Giver
-- A Cook
-- A Parent of adult children and Pets
-- A Teacher, Trainer, and Coach of adults and children
-- An OpenSource Contributor
-- A Business Owner
-- A Consultant, Technical Implementor, and Solution Designer
-- A Music and B Grade Movie lover
-- An Artist and Wood Carver
-- A Technician and Technologist
-- A Person with non-visible Disabilities
-- A Friend and Ally
+I am a Human first and foremost, what this means for me, is being able to balance the things that matter to me, my partner, family, friends, and personal growth and health, and the things that matter professionally.  This has lead me back to Consulting from Managed services, and allowed me to take the time to be able to recenter and pursue what makes future me less unhappy.  In addition to all of this, I am also:
+ - A Partner
+ - A Care Giver
+ - A Cook
+ - A Parent of adult children and Pets
+ - A Teacher, Trainer, and Coach of adults and children
+ - An OpenSource Contributor
+ - A Business Owner
+ - A Consultant, Technical Implementor, and Solution Designer
+ - A Music and B Grade Movie lover
+ - An Artist and Wood Carver
+ - A Technician and Technologist
+ - A Person with Invisible Disabilities
+ - A Friend and Ally
 
 ## Caregiving and Disability
 
