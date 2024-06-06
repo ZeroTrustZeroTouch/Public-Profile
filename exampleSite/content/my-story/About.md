@@ -9,7 +9,7 @@ tags:
   - Caregiving
   - Disability
   - Indigenous
-image: /images/post.jpg
+image: /images/my-story.png
 description: "More About Me"
 toc: 
 ---

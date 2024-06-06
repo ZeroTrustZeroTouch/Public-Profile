@@ -12,7 +12,7 @@ tags:
   - Auditing
   - Consulting
   - Technology
-image: /images/post.jpg
+#image: /images/post.jpg
 description: "A Brief Summary of IT Management Services offered By Zero Trust Zero Touch"
 toc: 
 ---

@@ -12,7 +12,7 @@ tags:
   - Modernization
   - Consulting
   - Technology
-image: /images/post.jpg
+#image: /images/post.jpg
 description: "A Brief Summary of Professional Services offered By Zero Trust Zero Touch"
 toc: 
 ---

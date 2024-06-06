@@ -11,7 +11,7 @@ tags:
   - Professional Services
   - Consulting
   - Technology
-image: /images/post.jpg
+#image: /images/post.jpg
 description: "A Brief Summary of Partnerships offered By Zero Trust Zero Touch"
 toc: 
 ---
