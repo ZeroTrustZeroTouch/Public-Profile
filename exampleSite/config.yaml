@@ -32,7 +32,7 @@ Menus:
     - identifier: My Story
       name: My Story
       title: My Story
-      url: /my-story
+      url: /my-story/about/
       weight: 2
     #- identifier: gallery
     #  name: Gallery
@@ -136,7 +136,7 @@ params:
     image: /images/headshot-1.png
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+    roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Book an Appointment"
