@@ -337,11 +337,11 @@ params:
 
   footer:
     recentPosts:
-      path: "Offerings"
+      path: "/Offerings"
       count: 4
       title: My Offerings
       enable: true
-      disableFeaturedImage: false
+      disableFeaturedImage: true
     socialNetworks:
       #github: https://github.com
       linkedin: https://www.linkedin.com/in/glenn-phillips-zt2/
