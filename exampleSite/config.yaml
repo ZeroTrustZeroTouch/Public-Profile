@@ -59,7 +59,7 @@ Menus:
 
 params:
   title: "Zero Trust Zero Touch"
-  description: Zero Trust Zero Touch Professional Landing Page
+  description: Zero Trust Zero Touch IT Management Solutions
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon-white.png"
 
@@ -193,6 +193,15 @@ params:
         content: |
           I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
 
+          - Collaborate with MSPs to streamline project delivery and operation processes.
+
+          - Enhancing network security by configuring and optimizing cloud networking, firewalls, and management groups, reducing potential security breaches.
+
+          - Collaborating with application owners to streamline deployment processes, improving time to market for new applications.
+
+          - Coach, Train, and Mentor technicians, resulting in an increase in first-time resolution of Microsoft Office administration issues, enhancing project deployment times.
+
+
       - job: "Project Analyst"
         company: "F12"
         companyUrl: "https://F12.net"
@@ -227,9 +236,15 @@ params:
         content: |
           Enterprise Systems Administrator for Relationship Driven Consulting transitioning to Managed services. Primary Duties include Solutions Architecting, Account Relations, Pre and Post Sales Technical support, and Developing Additional services to meet our clients changing and growing needs
 
-          - Established new client services for off-site replication, improving disaster recovery capabilities and client satisfaction
+          - Established new client services for off-site replication, improving disaster recovery capabilities and client satisfaction.
 
-          - Provided regular reports on customer status, enabling proactive decision-making and improved client support
+          - Provided regular reports on customer status, enabling proactive decision-making and improved client support.
+
+          - Identified and resolved network issues (DNS, VPN, WiFi), managed IT inventory onsite, and coordinated equipment repairs with external vendors, ensuring minimal downtime for operations.
+
+          - Positioned the IT Risk Implementation Team as a leader in developing enterprise solutions, resulting in successful implementation of controls for addressing assessment gaps.
+
+          - Implemented cybersecurity measures safeguarding confidential information, minimizing downtime and enhancing help desk support.
 
 
   # Education
