@@ -133,7 +133,7 @@ params:
     subtitle: "I Design, Deploy, and Manage IT Infrastructure and Solutions"
     content: |-
       A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation. I prefer self-hosted solutions as they offer greater control, however I recognize the need for 'As a Service' Services due to the lower operational overhead, and as such I often design hybrid infrastructure to try and maximize flexibility, while retaining as much externalized effort as reasonably possible.
-    image: /images/hero.svg
+    image: /images/headshot-1.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
