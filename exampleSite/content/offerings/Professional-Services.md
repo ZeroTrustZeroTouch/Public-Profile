@@ -1,5 +1,5 @@
 ---
-title: "Professional Services Offered"
+title: "Professional Services"
 date: 2024-04-29T22:41:10+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"

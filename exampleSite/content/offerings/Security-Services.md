@@ -1,5 +1,5 @@
 ---
-title: "IT Management Services Offered"
+title: "IT Security Services"
 date: 2024-04-29T22:41:10+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
@@ -12,7 +12,7 @@ tags:
   - Auditing
   - Consulting
   - Technology
-image: /images/post.jpg
+#image: /images/post.jpg
 description: "A Brief Summary of IT Security Services offered By Zero Trust Zero Touch"
 toc: 
 ---
