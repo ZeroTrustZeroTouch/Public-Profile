@@ -180,7 +180,7 @@ params:
         - "Connectwise and ManageEngine ticketing systems"
         - "Veeam Backup and Recovery"
         - "Nutanix AHV, Microsoft Hyper-v, Proxmox, Vmware VSphere"
-        - Cisco, Ubiquiti, Fortinet, Network solutions"
+        - "Cisco, Ubiquiti, Fortinet, Network solutions"
         - "MFA, IAM, SSO"
 
 # Experience
