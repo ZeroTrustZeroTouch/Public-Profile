@@ -1,7 +1,7 @@
 baseURL: "https://ZeroTrustZeroTouch.com"
 languageCode: "en-us"
 title: "Zero Trust Zero Touch"
-theme: hugo-profile
+theme: Public-Profile
 
 outputs:
   home:
