@@ -247,6 +247,95 @@ params:
         companyUrl: "https://example.com"
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+# Experience
+  experience:
+    enable: true
+    # title: "Custom Name"
+    companies:
+      - company: "Zero Trust Zero Touch ITMS"
+        companyUrl: "https://ZeroTrustZeroTouch.com"
+        jobs:
+          - job: "Owner and Principal  Consultant"
+            date: "Jan 2022 - Present"
+            content: |
+              I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
+              
+              - Collaborate with MSPs to streamline project delivery and operation processes.
+              
+              - Enhancing network security by configuring and optimizing cloud networking, firewalls, and management groups, reducing potential security breaches.
+              
+              - Collaborating with application owners to streamline deployment processes, improving time to market for new applications.
+              
+              - Coach, Train, and Mentor technicians, resulting in an increase in first-time resolution of Microsoft Office administration issues, enhancing project deployment times.
+
+      - company: "F12"
+        companyUrl: "https://F12.net"
+        jobs:
+          - job: "Project Analyst"
+            date: "Jan 2019 - Dec 2021"
+            content: |
+              Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
+              
+              - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
+              
+              - Mentored team members, facilitating knowledge transfer and skills development, leading to improved IT operations and problem resolution.
+              
+              - Ensured high availability of enterprise network architecture by deploying disaster recovery plans, minimizing downtime and ensuring uninterrupted business operations.
+
+          - job: "Senior Project Technician - Level4 Technologies"
+            company: "Level4 Technologies - Acquired by F12"
+            companyUrl: "https://F12.net"
+            date: "August 2015 - Dec 2018"
+            content: |
+              Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.
+              
+              - Enhanced efficiency of PM team by developing SoPs tailored to tasks and risk levels, resulting in faster project estimation and resource planning.
+              
+              - Crafted Technical Guides for technician training, driving skill enhancement and enabling efficient project delegation for improved team productivity.
+              
+              - Mentored and trained junior support team members in Windows Server management, resulting in increased ability to handle complex client network issues independently.
+              
+              - Developed task and skill level appropriate documentation, leading to 25% increase in operational efficiency and smoother knowledge transfer within the team.
+              
+      - company: "Coastway Systems Technologies"
+        companyUrl: "https://coastway.ca"
+        jobs:
+          - job: "Enterprise Systems Administrator"
+            company: "Coastway Systems Technologies"
+            companyUrl: "https://coastway.ca"
+            date: "May 2012 - August 2015"
+            content: |
+              Enterprise Systems Administrator for Relationship Driven Consulting transitioning to Managed services. Primary Duties include Solutions Architecting, Account Relations, Pre and Post Sales Technical support, and Developing Additional services to meet our clients changing and growing needs
+              
+              
+              - Established new client services for off-site replication, improving disaster recovery capabilities and client satisfaction.
+              
+              - Provided regular reports on customer status, enabling proactive decision-making and improved client support.
+              
+              - Identified and resolved network issues (DNS, VPN, WiFi), managed IT inventory onsite, and coordinated equipment repairs with external vendors, ensuring minimal downtime for operations.
+              
+              - Positioned the IT Risk Implementation Team as a leader in developing enterprise solutions, resulting in successful implementation of controls for addressing assessment gaps.
+              
+              - Implemented cybersecurity measures safeguarding confidential information, minimizing downtime and enhancing help desk support.
+
+      - company: "Freelance - Sole Propritor"
+        jobs:
+          - job: "IT Consulting Freelance"
+            date: "May 2008 - August 2015"
+            content: |
+              Recruiter driven consulting focused  on Non-profits, Family and Home based business.
+              
+              - Strategic and Capacity planning to ensure IT infrastructure was scalable to their forecasts. Provide inclusive IT and operational documentation, including Cyber Security response playbooks. Discuss Growth targets and employee training plans to better utilize availability tools and technologies and avoid common attack targets.              
+              
+              - Identified and resolved network issues (DNS, VPN, WiFi), managed IT inventory onsite, and coordinated equipment repairs with external vendors, ensuring minimal downtime for operations.
+              
+              - Provided regular reports on customer status, enabling proactive decision-making and improved client support.
+              
+              - Led digital transformation strategy, optimizing IT budgets enhancing operational efficiency and cost savings.
+              
+              - Collaborated with Architects to implement high-availability configurations, aligning risk profiles to business objectives and ensuring service resilience.
+              
+              - Remote first support model to reduce onsite travel billing
 
   # Education
   education:
