@@ -221,7 +221,7 @@ params:
           - job: "Senior Project Technician - Level4 Technologies"
             company: "Level4 Technologies - Acquired by F12"
             companyUrl: "https://F12.net"
-            date: "August 2015 - Dec 2018"
+            date: "May 2018 - Dec 2018"
             content: |
               Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.
               
@@ -232,6 +232,23 @@ params:
               - Mentored and trained junior support team members in Windows Server management, resulting in increased ability to handle complex client network issues independently.
               
               - Developed task and skill level appropriate documentation, leading to 25% increase in operational efficiency and smoother knowledge transfer within the team.
+
+          - job: "Senior Service Desk Engineer - Level4 Technologies"
+            company: "Level4 Technologies - Acquired by F12"
+            companyUrl: "https://F12.net"
+            date: "August 2015 - May 2018"
+            content: |
+              Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.Senior Service Desk Engineer providing Escalation and Triage services, facilitating quick ticket resolutions, and Identifying Systemic issues to escalate to the Client relations team to facilitate Professional services remediations.
+              
+              - Regularly Analyze Operational and Business Processes to better utilize existing Staffing pools to efficiently utilize existing management systems, and utilize findings to improve ticket resolution times.
+              
+              - Provided escalation services for site outages, cyber events and perform on-site mitigations and repairs. 
+              
+              - Streamlined systems administration processes, resulting in a marked decrease in Helpdesk tickets and increased overall employee satisfaction.
+
+              - Resolved 100+ customer escalation Tickets weekly, improving satisfaction and loyalty
+
+              - Created Escalation and training guidelines to facilitate appropriate ticket mobility and skills development. 
               
       - company: "Coastway Systems Technologies"
         companyUrl: "https://coastway.ca"
