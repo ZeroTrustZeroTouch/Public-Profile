@@ -137,7 +137,7 @@ params:
       A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation. I prefer self-hosted solutions as they offer greater control, however I recognize the need for 'As a Service' Services due to the lower operational overhead, and as such I often design hybrid infrastructure to try and maximize flexibility, while retaining as much externalized effort as reasonably possible.
     image: /images/headshot-2.png
     bottomImage:
-      enable: true
+      enable: false
     roundImage: true # Make hero image circular | default false
     button:
       enable: true
