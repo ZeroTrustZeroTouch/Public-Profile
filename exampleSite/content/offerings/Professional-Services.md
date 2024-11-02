@@ -17,8 +17,8 @@ description: "A Brief Summary of Professional Services offered By Zero Trust Zer
 toc: 
 ---
 
-## At Zero Trust Zero Touch we offer four broad catagories of Professional services:
-All Professional Services are offered on a sliding pricing scale, with the most common ad-hoc rates starting $100-150/hourly, and consulting and fractional services being as needed. Should longer engagements be required, bulk rates and retainers can be negotiated.
+## At Zero Trust Zero Touch we offer several varieties of Professional services:
+All Professional Services are offered on a sliding pricing scale with consulting and fractional services being as needed. Should longer engagements be required, bulk rates and retainers can be negotiated.
 
  - Implementations
  - Migrations

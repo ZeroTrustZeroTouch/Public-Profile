@@ -29,10 +29,10 @@ Menus:
       title: Offerings
       url: /Offerings
       weight: 1
-    - identifier: About Us
-      name: About Us
-      title: About Us
-      url: /about/about/
+    - identifier: About Zero Trust Zero Touch
+      name: About Zero Trust Zero Touch
+      title: About Zero Trust Zero Touch
+      url: /about/us/
       weight: 2
     #- identifier: gallery
     #  name: Gallery
@@ -178,7 +178,7 @@ params:
         - "IT Security: Endpoint, Infrastructure, Networking and Cloud"
         - "IT Operations: What needs to happen, Who needs to do it, and Who to call when there are issues"
         - "Process Mapping and Improvements: How long does this take, Who needs to be involved, How can we reduce errors"
-        - "Modernization and Migrations: Why do we do this way, Are there better ways, How do we get there"
+        - "Modernization and Migrations: Why do we it this way, Are there better ways, How do we get there"
 
  # Offerings
   projects:
@@ -188,13 +188,18 @@ params:
       - title: Managed Services
         content: We offer a two broad ranges of Managed services, Simple IT Management for SMBs, and Co-Managed Solutions for SMEs. Both have Flexible offerings with a Tiers of services that work for you business needs
         featured:
-          name: Managed Offerings
+          name: Managed Managed
           link: /Offerings/Managed-Services
       - title: Fractional Services
         content: An offering for those clients who need access to high level resources on their team, but don't have the workload or budget for a full FTE, we offer our full range of services
         featured:
-          name: Demo
+          name: Fractional Services
           link: /Offerings/Fractional-Services
+      - title: CyberSecurity Services
+        content: CyberSecurity Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings.
+        featured:
+          name: CyberSecurity Services
+          link: /Offerings/CyberSecurity-Services
       - title: Professional Services
         content: Professional Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings.
         featured:
