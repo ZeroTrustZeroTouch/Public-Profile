@@ -169,7 +169,7 @@ params:
       items:
         - "Patching, Inventory and Endpoint Compliance"
         - "Network Connectivity: Wired, Wireless, Remote, and Zero Trust"
-        - "Infrastructure Management: Inventory, Lifecycle, Intergrations, and Availability"
+        - "Infrastructure Management: Inventory, Lifecycle, Integrations, and Availability"
         - "Security: Policies, Procedures, Best Practices and How staff actually operate"
         - "Documentation, Auditing and Reporting"
         - "Backups: Endpoint, Infrastructure and Cloud"
@@ -186,17 +186,17 @@ params:
     title: "Our Offerings"
     items:
       - title: Managed Services
-        content: We offer a two broad ranges of Managed services, Simple IT Management for SMBs, and Co-Managed Solutions for SMEs. Both have Flexible offerings with a Tiers of services that work for you business needs
+        content: We offer a two broad ranges of Managed services, Simple IT Management for SMBs, and Co-Managed Solutions for SMEs. Both have Flexible offerings with a Tiers of services that work for you business needs.  The Small Business Offerings are designed to offload the Risk and minutia  of IT Management from SMBs, while the Co-Managed solution is designed to be highly flexible to suit your organization's needs, be they de-escalation, delegation, Security, Compliance or any of the myriad od needs that modern enterprises require.
         featured:
           name: Managed Managed
           link: /Offerings/Managed-Services
       - title: Fractional Services
-        content: An offering for those clients who need access to high level resources on their team, but don't have the workload or budget for a full FTE, we offer our full range of services
+        content: A line of offerings for those with a need to access to high level resources on their team, but don't have the workload or budget for a full FTE.  Fractional offerings typically fit with clients who need a broad range of skills such as Networking and Infrastructure, or Project Delivery. The offerings listed are a starting point of what our agent pool offers, the listed services represent common needs that we have been tasked to solve, and are by no mean exhaustive.
         featured:
           name: Fractional Services
           link: /Offerings/Fractional-Services
       - title: CyberSecurity Services
-        content: CyberSecurity Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings.
+        content: Our line CyberSecurity Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings. They are comprised of several discrete offerings to be paired with other offerings to form complete solutions that fit your unique business needs.
         featured:
           name: CyberSecurity Services
           link: /Offerings/CyberSecurity-Services
