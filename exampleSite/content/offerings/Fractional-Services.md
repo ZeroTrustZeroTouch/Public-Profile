@@ -1,31 +1,27 @@
 ---
-title: "Professional Partnerships"
+title: "Fractional Services"
 date: 2024-06-06T13:41:10+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Glenn Phillips"
 tags:
   - Services offered
-  - Partnerships
-  - IT Management
-  - Professional Services
-  - Consulting
-  - Technology
+  - Fractional Services
 #image: /images/post.jpg
-description: "A Brief Summary of Partnerships offered By Zero Trust Zero Touch"
+description: "A Brief Summary of Fractional Services offered By Zero Trust Zero Touch"
 toc: 
 ---
 
-## At Zero Trust Zero Touch we offer Professional Partnerships, particularly with Service Providers, Indigenous initiatives and Non-Profits. What comes with a partnership with Zero Trust Zero Trust?
- - Preferred Pricing
- - Full line of Professional Services
- - Full line of IT Management
- - Dedicated Fractional representation
- - Co-Management of Services
- - Capacity Planning and Forecasting
+## What are Fractional Services?
+Fractional Consulting is a rising trend in IT consulting where instead of hiring externally per project like with Electricians, an agreement is made to internally hire part-time, effectively similar to Bookkeeping and Property Management partnerships.  This shift allows access to high level Talent, on per-initiative basis, or even on-going retainers. The key part Fractional consulting is the flexibility, for both the consultant, and for the partner.
 
 <hr>
 
-## Why Partnerships?
+## Why Fractional?
+ - Flexibility - as low as a 20hour a month commitments
+ - Cost Efficient solutions 
+ - Internal resource on your team
+ 
+Zero Trust Zero Touch was founded on the ideals of "Make Future-Me Less Unhappy", and "Human-Centric".  The "Make Future Me Less Unhappy" is simply an easy way of saying: Do extra work upfront to mitigate Barriers and Blockers that actively create Unhappiness. The "Human-Centric" part comes as a byproduct of that thought process, as its not very enjoyable to treated like a Cog in a Machine, so we try and do better and treat every person and opportunity as Human first, as at the end of the day and all real work will pass through someone's hands.
 
-Zero Trust Zero Touch was founded on the ideals of "Make Future-Me Less Unhappy", and "Human-Centric".  The Make Future Me Less Unhappy is simply an easy way of saying I like to do extra work upfront to mitigate Barriers and Blockers that actively make me Unhappy in the long run, meaning there is more room good things in life. The Human-Centric part comes as a byproduct of that thought process, as its not very enjoyable to treated like a Cog in a Machine, so I try and do better and treat every person and opportunity as Human first, even if it means missing out on some of the more corporate opportunities.
+ ## Who
