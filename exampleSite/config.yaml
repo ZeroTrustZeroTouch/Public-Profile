@@ -198,8 +198,8 @@ params:
       - title: CyberSecurity Services
         content: Our line CyberSecurity Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings. They are comprised of several discrete offerings to be paired with other offerings to form complete solutions that fit your unique business needs.
         featured:
-          name: CyberSecurity Services
-          link: /offerings/cybersecurity-services
+          name: Cyber Services
+          link: /offerings/cyber-services
       - title: Professional Services
         content: Professional Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings.
         featured:

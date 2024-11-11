@@ -1,6 +1,6 @@
 ---
-title: "IT Security Services"
-date: 2024-06-06T13:41:10+05:30
+title: "Cyber Services"
+date: 2024-11-11T13:41:10+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Glenn Phillips"
@@ -11,15 +11,19 @@ tags:
   - User Security
   - Zero Trust
   - GRC
+  - Inventory Management
+  - Patch Management
+  - Process Management
   #image: /images/post.jpg
 description: "A Brief Summary of IT Security Services offered By Zero Trust Zero Touch"
 toc: 
 ---
 
-## At Zero Trust Zero Touch we offer a wide range of options to fit with needs of 
+## At Zero Trust Zero Touch we offer a wide range of Cyber options to fit the needs of any organization
 - Endpoint, User, and SaaS Security
 - ZeroTrust Network Access
 - GRC Services
+- Inventory, Patching, and Process Management
 
 <hr>
 
@@ -34,13 +38,13 @@ We offer a highly integrated Endpoint Protection plan that includes most common 
 ## User Security
 To Compliment our Endpoint Offerings we have a Per Use line that includes the following features:
  - SaaS Backups - Google Workspace or Microsoft 365
- - Email Protection
+ - Email Security and phishing protection
  - Security Awareness Training
  
 ## Zero Trust Network Access
 As per our name we offer ZTNA services, via the CloudFlare Global network for ease of integration, availability, and User Acceptance.  Utilizing Cloudflare gives a consistent experience across client OSes, Desktop, Mobile and Server, while offering an uncompromising ease of use. This allows us to manage access to internal resources in a safe, secure, and auditable manor.
  - Integration with CloudFlare Global Network
- - widely supported Client available on Desktops, Server, and Mobile OSes
+ - Widely supported Client available on Desktops, Server, and Mobile OSes
  - Remote Access to Internal resources
  - Integrated Logging and Access Control
 
@@ -49,4 +53,6 @@ The GRC offerings are a combination of many other offerings into a whole. We com
  - Combine Documentation covering Assets, Networks, Software, Policies and Procedures
  - Generate supporting documentation based on real world data from integrated documentation solution
  - Generate automated reports to track compliance and risks over time
- - Integrated Logging and Access Control
+ - Align Processes to hundreds of industry standards
+ - Role Based access, Allow Auditors access to just what they need, Internal Resources to what they need
+ - Ticketing system integration - Track compliance, exceptions, action items and resource assignment
