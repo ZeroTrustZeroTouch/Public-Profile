@@ -44,12 +44,30 @@ Menus:
     #   title: Example dropdown menu
     #   name: Dropdown
     #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
+     - identifier: Managed
+       title: Managed Services
+       name: Managed Services
+       url: /offerings/managed-services
+       parent: Offerings
+       weight: 1
+     - identifier: Cyber
+       title: Cyber Services
+       name: Cyber Services
+       url: /offerings/cyber-services
+       parent: Offerings
+       weight: 1
+     - identifier: Consulting
+       title: Consulting Services
+       name: Consulting Services
+       url: /offerings/Consulting-services
+       parent: Offerings
+       weight: 1
+     - identifier: Professional
+       title: Professional Services
+       name: Professional Services
+       url: /offerings/professional-services
+       parent: Offerings
+       weight: 1
     # - identifier: dropdown2
     #   title: example dropdown 2
     #   name: example 2
