@@ -139,7 +139,7 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
     intro: "Hi, my name is"
     title: "Isabella."
     subtitle: "I build things for the web"
