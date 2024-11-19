@@ -102,6 +102,7 @@ params:
   # color:
   #   textColor: "#343a40"
   #   secondaryTextColor: "#6c757d"
+  #   textLinkColor: "#007bff"
   #   backgroundColor: "#eaedf0"
   #   secondaryBackgroundColor: "#64ffda1a"
   #   primaryColor: "#007bff"
@@ -110,6 +111,7 @@ params:
   #   darkmode:
   #     textColor: "#e4e6eb"
   #     secondaryTextColor: "#b0b3b8"
+  #     textLinkColor: "#ffffff"
   #     backgroundColor: "#18191a"
   #     secondaryBackgroundColor: "#212529"
   #     primaryColor: "#ffffff"
@@ -137,12 +139,12 @@ params:
 
   # Hero
   hero:
-    enable: false
-    intro: ""
-    title: ""
-    subtitle: ""
-    content: 
-    #image: /images/headshot-2.png
+    enable: true
+    intro: "Hi, my name is"
+    title: "Isabella."
+    subtitle: "I build things for the web"
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    image: /images/hero.svg
     bottomImage:
       enable: false
     roundImage: true # Make hero image circular | default false
