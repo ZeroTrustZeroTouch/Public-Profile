@@ -34,16 +34,6 @@ Menus:
       title: About Zero Trust Zero Touch
       url: /about/us/
       weight: 2
-    #- identifier: gallery
-    #  name: Gallery
-    #  title: Blog posts
-    #  url: /gallery
-    #  weight: 2
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
      - identifier: Managed
        title: Managed Services
        name: Managed Services
