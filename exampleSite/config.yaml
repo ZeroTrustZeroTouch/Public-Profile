@@ -27,29 +27,37 @@ Menus:
     - identifier: Offerings
       name: Offerings
       title: Offerings
-      url: /Offerings
+      url: /offerings
       weight: 1
-    - identifier: My Story
-      name: My Story
-      title: My Story
-      url: /my-story/about/
+    - identifier: About Zero Trust Zero Touch
+      name: About Zero Trust Zero Touch
+      title: About Zero Trust Zero Touch
+      url: /about/us/
       weight: 2
-    #- identifier: gallery
-    #  name: Gallery
-    #  title: Blog posts
-    #  url: /gallery
-    #  weight: 2
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
+    - identifier: Managed
+      title: Managed Services
+      name: Managed Services
+      url: /offerings/managed-services
+      parent: Offerings
+      weight: 1
+    - identifier: Cyber
+      title: Cyber Services
+      name: Cyber Services
+      url: /offerings/cyber-services
+      parent: Offerings
+      weight: 1
+    - identifier: Consulting
+      title: Consulting Services
+      name: Consulting Services
+      url: /offerings/Consulting-services
+      parent: Offerings
+      weight: 1
+    - identifier: Professional
+      title: Professional Services
+      name: Professional Services
+      url: /offerings/professional-services
+      parent: Offerings
+      weight: 1
     # - identifier: dropdown2
     #   title: example dropdown 2
     #   name: example 2
@@ -94,6 +102,7 @@ params:
   # color:
   #   textColor: "#343a40"
   #   secondaryTextColor: "#6c757d"
+  #   textLinkColor: "#007bff"
   #   backgroundColor: "#eaedf0"
   #   secondaryBackgroundColor: "#64ffda1a"
   #   primaryColor: "#007bff"
@@ -102,6 +111,7 @@ params:
   #   darkmode:
   #     textColor: "#e4e6eb"
   #     secondaryTextColor: "#b0b3b8"
+  #     textLinkColor: "#ffffff"
   #     backgroundColor: "#18191a"
   #     secondaryBackgroundColor: "#212529"
   #     primaryColor: "#ffffff"
@@ -129,20 +139,19 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
     intro: "Hi, my name is"
-    title: "Glenn Phillips"
-    subtitle: "I Design, Deploy, and Manage IT Infrastructure and Solutions"
-    content: |-
-      A passionate technologist with a focus on technical debt reduction, simplification, and functional living documentation. I prefer self-hosted solutions as they offer greater control, however I recognize the need for 'As a Service' Services due to the lower operational overhead, and as such I often design hybrid infrastructure to try and maximize flexibility, while retaining as much externalized effort as reasonably possible.
-    image: /images/headshot-2.png
+    title: "Isabella."
+    subtitle: "I build things for the web"
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    image: /images/hero.svg
     bottomImage:
       enable: false
     roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Book an Appointment"
-      url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3WO5VywR6TgVWbyWjR5G-q7vaUYid7iSdnmLq2GyU393bK53BIBhiT_XL-XIS5lWsmRX1KLFAN"
+      name: ""
+      url: ""
       download: true
       newPage: true
     socialLinks:
@@ -150,7 +159,7 @@ params:
         #- icon: fab fa-github
         #  url: https://example.com
         - icon: fa-brands fa-linkedin
-          url: https://www.linkedin.com/in/glenn-phillips-zt2/
+          url: 
       #customIcons:
       #  - icon: /fav.png
       #    url: ""
@@ -158,234 +167,61 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/headshot-1.png"
+    title: "About Us"
+    #image: ""
     content: |-
-      I am an IT Consulting, and MSP Veteran with over 15 years of Professional services Experience, ranging from small single seat clients, to 1000+ seat multi-national companies, non-profits, and financial intuitions, education, and everything in between.
-
-      I live by the Motto "Make future me less unhappy" Which professionally means, ensuring the solutions I implement today, wont end up becoming tomorrow's technical debt.  It is also why I am so dedicated to creating functional living documentation, utilizing a dedicated IT documentation tool, such as ITGlue, Hudu, or more recently ITFlow. This leads me to building templates and playbooks that are easy to follow, and take into account the varied skill levels of those utilizing them, to facilitate up-skilling, and de-escalation of common tasks and incidents.
+      Our professional philosophy is encapsulated in the motto: "Human-Centric" and "Make future me less unhappy". In practical terms, this translates to implementing solutions today that won't become tomorrow's technical debt, and removing barriers. This forward-thinking approach ensures that the IT infrastructure put in place remains robust, scalable, and adaptable to future technological advancements. It's a proactive strategy that saves time, resources, and potential headaches down the line.
+      One of the cornerstones of our approach is the creation and maintenance of functional, living documentation. We're strong advocates for utilizing dedicated IT documentation tools such as ITGlue, Hudu, or more recently, ITFlow. These platforms serve as centralized repositories for all IT-related information, making it easily accessible and updatable. This commitment to comprehensive documentation is not just about record-keeping; it's about creating a knowledge base that evolves with the organization's IT landscape.
+      
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few of the problems we work to solve:"
       items:
-        - "LXC, Docker, and Kubernetes"
-        - "Ipsec, SSL, and Wireguard VPNs"
-        - "ITGlue, Hudu, and ITFlow"
-        - "AD, M365, Entra, and Azure"
-        - "GCP, and Google Workspace"
-        - "Fortinet Firewalls, Wireless, SIEM, and Analytics,"
-        - "Wazuh, and Crowdsec"
-        - "Grafa, Loki, and Prometheus"
-        - "Ubuntu Server, Alpine, Void, and Gentoo Linux"
-        - "Connectwise and ManageEngine ticketing systems"
-        - "Veeam Backup and Recovery"
-        - "Nutanix AHV, Microsoft Hyper-v, Proxmox, Vmware VSphere"
-        - "Cisco, Ubiquiti, Fortinet, Network solutions"
-        - "MFA, IAM, SSO"
+        - "Patching, Inventory and Endpoint Compliance"
+        - "Network Connectivity: Wired, Wireless, Remote, and Zero Trust"
+        - "Infrastructure Management: Inventory, Lifecycle, Integrations, and Availability"
+        - "Security: Policies, Procedures, Best Practices and How staff actually operate"
+        - "Documentation, Auditing and Reporting"
+        - "Backups: Endpoint, Infrastructure and Cloud"
+        - "Cloud Platform Management"
+        - "Vendor Relationships"
+        - "IT Security: Endpoint, Infrastructure, Networking and Cloud"
+        - "IT Operations: What needs to happen, Who needs to do it, and Who to call when there are issues"
+        - "Process Mapping and Improvements: How long does this take, Who needs to be involved, How can we reduce errors"
+        - "Modernization and Migrations: Why do we it this way, Are there better ways, How do we get there"
 
-# Experience
-  experience:
-    enable: true
-    # title: "Custom Name"
-    companies:
-      - company: "Zero Trust Zero Touch ITMS"
-        companyUrl: "https://ZeroTrustZeroTouch.com"
-        jobs:
-          - job: "Owner and Principal  Consultant"
-            date: "Jan 2022 - Present"
-            content: |
-              I provide IT management and security solutions for clients who want to modernize their systems and reduce technical debt.
-              
-              - Collaborate with MSPs to streamline project delivery and operation processes.
-              
-              - Enhancing network security by configuring and optimizing cloud networking, firewalls, and management groups, reducing potential security breaches.
-              
-              - Collaborating with application owners to streamline deployment processes, improving time to market for new applications.
-              
-              - Coach, Train, and Mentor technicians, resulting in an increase in first-time resolution of Microsoft Office administration issues, enhancing project deployment times.
-
-      - company: "F12"
-        companyUrl: "https://F12.net"
-        jobs:
-          - job: "Project Analyst"
-            date: "Jan 2019 - Dec 2021"
-            content: |
-              Project Delivery Specialist of many hats. Primary Duties included Auditing client environments to ensure they match F12.net compliance standards, Deploying new infrastructure, and providing escalation services where required.
-              
-              - Managed successful project implementations for various teams, leading to streamlined processes, improved productivity, and enhanced cross-functional communication.
-              
-              - Mentored team members, facilitating knowledge transfer and skills development, leading to improved IT operations and problem resolution.
-              
-              - Ensured high availability of enterprise network architecture by deploying disaster recovery plans, minimizing downtime and ensuring uninterrupted business operations.
-
-          - job: "Senior Project Technician - Level4 Technologies"
-            company: "Level4 Technologies - Acquired by F12"
-            companyUrl: "https://F12.net"
-            date: "May 2018 - Dec 2018"
-            content: |
-              Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.
-              
-              - Enhanced efficiency of PM team by developing SoPs tailored to tasks and risk levels, resulting in faster project estimation and resource planning.
-              
-              - Crafted Technical Guides for technician training, driving skill enhancement and enabling efficient project delegation for improved team productivity.
-              
-              - Mentored and trained junior support team members in Windows Server management, resulting in increased ability to handle complex client network issues independently.
-              
-              - Developed task and skill level appropriate documentation, leading to 25% increase in operational efficiency and smoother knowledge transfer within the team.
-
-          - job: "Senior Service Desk Engineer - Level4 Technologies"
-            company: "Level4 Technologies - Acquired by F12"
-            companyUrl: "https://F12.net"
-            date: "August 2015 - May 2018"
-            content: |
-              Sr. Project delivery specialist and Escalation resource. Primary duties included onboarding net new clients, Implementing new infrastructure, and keeping deployment standards up to date with best practices.Senior Service Desk Engineer providing Escalation and Triage services, facilitating quick ticket resolutions, and Identifying Systemic issues to escalate to the Client relations team to facilitate Professional services remediations.
-              
-              - Regularly Analyze Operational and Business Processes to better utilize existing Staffing pools to efficiently utilize existing management systems, and utilize findings to improve ticket resolution times.
-              
-              - Provided escalation services for site outages, cyber events and perform on-site mitigations and repairs. 
-              
-              - Streamlined systems administration processes, resulting in a marked decrease in Helpdesk tickets and increased overall employee satisfaction.
-
-              - Resolved 100+ customer escalation Tickets weekly, improving satisfaction and loyalty
-
-              - Created Escalation and training guidelines to facilitate appropriate ticket mobility and skills development. 
-              
-      - company: "Coastway Systems Technologies"
-        companyUrl: "https://coastway.ca"
-        jobs:
-          - job: "Enterprise Systems Administrator"
-            company: "Coastway Systems Technologies"
-            companyUrl: "https://coastway.ca"
-            date: "May 2012 - August 2015"
-            content: |
-              Enterprise Systems Administrator for Relationship Driven Consulting transitioning to Managed services. Primary Duties include Solutions Architecting, Account Relations, Pre and Post Sales Technical support, and Developing Additional services to meet our clients changing and growing needs
-              
-              
-              - Established new client services for off-site replication, improving disaster recovery capabilities and client satisfaction.
-              
-              - Provided regular reports on customer status, enabling proactive decision-making and improved client support.
-              
-              - Identified and resolved network issues (DNS, VPN, WiFi), managed IT inventory onsite, and coordinated equipment repairs with external vendors, ensuring minimal downtime for operations.
-              
-              - Positioned the IT Risk Implementation Team as a leader in developing enterprise solutions, resulting in successful implementation of controls for addressing assessment gaps.
-              
-              - Implemented cybersecurity measures safeguarding confidential information, minimizing downtime and enhancing help desk support.
-
-      - company: "Freelance"
-        jobs:
-          - job: "IT Consulting Freelance"
-            date: "May 2008 - August 2015"
-            content: |
-              Recruiter driven consulting focused  on Non-profits, Family and Home based business.
-              
-              - Strategic and Capacity planning to ensure IT infrastructure was scalable to their forecasts. Provide inclusive IT and operational documentation, including Cyber Security response playbooks. Discuss Growth targets and employee training plans to better utilize availability tools and technologies and avoid common attack targets.              
-              
-              - Identified and resolved network issues (DNS, VPN, WiFi), managed IT inventory onsite, and coordinated equipment repairs with external vendors, ensuring minimal downtime for operations.
-              
-              - Provided regular reports on customer status, enabling proactive decision-making and improved client support.
-              
-              - Led digital transformation strategy, optimizing IT budgets enhancing operational efficiency and cost savings.
-              
-              - Collaborated with Architects to implement high-availability configurations, aligning risk profiles to business objectives and ensuring service resilience.
-              
-              - Remote first support model to reduce onsite travel billing
-
-  # Education
-  education:
-    enable: true
-    # title: "Custom Name"
-    index: false
-    items:
-      - title: "Diploma of Technical Studies"
-        school:
-          name: "BCIT"
-          url: "https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/#overview"
-        date: "2005 - 2007"
-        #GPA: "3.8 out of 5.0"
-        content: |-
-          Practical Enterprise Administration focused on Touching all aspects of an Enterprise IT lifecycle
-            - First year focused on CCNA, MCSA, Comptia A+, preparation, as well as an introduction to programming 
-            - Second year focused on Enterprise systems, Exchange, RHEL, Solaris, Advanced Firewalls, and building practice environments from scratch
-      
-
-  # Achievements
-  achievements:
-    enable: true
-    title: "Linux Journey"
-    items:
-      - title: Sabayon Linux
-        content: Independent Contributor, Beta Tester, and user support
-        url: "https://en.wikipedia.org/wiki/Sabayon_Linux"
-        image: /images/sabayonlinux.png
-      - title: Funtoo Linux
-        content: Independent Contributor, User Support
-        url: "https://www.funtoo.org/"
-        image: /images/funtoolinux.png
-      - title: Liguros Linux
-        content: Independent Contributor, Beta Tester
-        url: "https://liguros.gitlab.io/"
-        image: /images/liguroslinux.png
-      - title: Void Linux
-        content: Independent Contributor
-        url: "https://voidlinux.org/"
-        image: /images/voidlinux.png
-
-  # projects
+ # Offerings
   projects:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "Our Offerings"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Managed Services
+        content: We offer a two broad ranges of Managed services, Simple IT Management for SMBs, and Co-Managed Solutions for SMEs. Both have Flexible offerings with a Tiers of services that work for you business needs.  The Small Business Offerings are designed to offload the Risk and minutia  of IT Management from SMBs, while the Co-Managed solution is designed to be highly flexible to suit your organization's needs, be they de-escalation, delegation, Security, Compliance or any of the myriad od needs that modern enterprises require.
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+          name: Managed Managed
+          link: /offerings/managed-services
+      - title: Fractional Services
+        content: A line of offerings for those with a need to access to high level resources on their team, but don't have the workload or budget for a full FTE.  Fractional offerings typically fit with clients who need a broad range of skills such as Networking and Infrastructure, or Project Delivery. The offerings listed are a starting point of what our agent pool offers, the listed services represent common needs that we have been tasked to solve, and are by no mean exhaustive.
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+          name: Fractional Services
+          link: /offerings/fractional-services
+      - title: CyberSecurity Services
+        content: Our line CyberSecurity Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings. They are comprised of several discrete offerings to be paired with other offerings to form complete solutions that fit your unique business needs.
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          name: Cyber Services
+          link: /offerings/cyber-services
+      - title: Professional Services
+        content: Professional Services available Ad-Hoc or utilized as adjuncts to our Fractional and Managed offerings.
+        featured:
+          name: Professional Services
+          link: /offerings/professional-services
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: If you have any questions feel free to reach out via email, and I will endeavor to get back to you as quickly as I'm able to,
-    btnName: Contact me
+    content: If you have any questions feel free to reach out via email
+    btnName: Contact us
     btnLink: mailto:contact@zerotrustzerotouch.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -403,7 +239,7 @@ params:
       disableFeaturedImage: true
     socialNetworks:
       #github: https://github.com
-      linkedin: https://www.linkedin.com/in/glenn-phillips-zt2/
+      linkedin: https://ca.linkedin.com/company/zerotrustzerotouch
       
 
   # List pages like blogs and posts
